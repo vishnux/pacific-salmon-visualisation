@@ -4,6 +4,4 @@
 
 Add sentence for pull request - How does this work? 
 
-Test check 
-
 Source : https://github.com/orcasound/orcadata/wiki/Data-visualization-opportunities#pacific-salmon-data
