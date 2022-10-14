@@ -1,1 +1,1 @@
-# pacific-salmon-visualisation
+# Pacific Salmon Visualisation
